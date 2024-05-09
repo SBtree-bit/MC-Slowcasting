@@ -1,6 +1,5 @@
 {
   "values":[
-	"slowcast:zprivate/init",
-  "demo:init"
+	"slowcast:zprivate/init"
   ]
 }
